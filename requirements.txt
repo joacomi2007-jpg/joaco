@@ -1,0 +1,9 @@
+streamlit
+pandas
+yfinance
+requests
+groq
+lxml
+html5lib
+Pillow
+google-genai
